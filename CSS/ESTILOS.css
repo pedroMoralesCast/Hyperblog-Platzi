@@ -1,9 +1,7 @@
 body
 {
     color:blue;
-=======
     color:red;
->>>>>>> cabecera
     text-align: center;
     font-family: "Courier";
     font-size: 16 px;
@@ -37,4 +35,10 @@ body
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8cm;
+}
+#Footer
+{
+	background: #777;
+	color: white;
+	text-align: center;
 }
